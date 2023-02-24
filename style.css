@@ -1,0 +1,23 @@
+.calculator{
+    width: 200px;
+}
+.int{
+    text-align: right;
+    width: 80px;
+}
+.row button {
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    box-shadow: 2px 2px gray;
+    outline: none;
+    background-color: greenyellow;
+    
+}
+.row {
+    width: 260px;
+    text-align: right;
+}
